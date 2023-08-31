@@ -1,16 +1,14 @@
-# even_split
+# Copybara
 
-A new Flutter project.
+Easily process difficult to read handwriting, scan text and even translate with Copybara. Utilizng the latest machine learning technology, Copybara is an OCR (Optical Character Recognition) cross-platform application for both iOS and Android. Customly designed, Emi the capybara is your companion for all scanning needs!
 
-## Getting Started
+## Features
+- Scan any form of typed text in real time
+- Minimalistic and user friendly UI/UX design
+- Enlarge font for readibility
+- Copy text to clipboard to share
+- Text to speech capabilites to read text out loud
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
