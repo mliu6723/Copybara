@@ -1,5 +1,4 @@
-# Copybara
-
+# Copybara 
 Easily process difficult to read handwriting, scan text and even translate with Copybara. Utilizng the latest machine learning technology, Copybara is an OCR (Optical Character Recognition) cross-platform application for both iOS and Android. Customly designed, Emi the capybara is your companion for all scanning needs!
 
 ## Features
@@ -10,5 +9,5 @@ Easily process difficult to read handwriting, scan text and even translate with 
 - Text to speech capabilites to read text out loud
 
 ## Screenshots
-
+<img src= "assets/homepage_copybara.png" width=150/> <img src= "assets/fontsize_copybara.png" width=150/> <img src= "assets/scan_copybara.png" width=150/>
 
