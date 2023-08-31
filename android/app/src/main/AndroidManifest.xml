@@ -2,7 +2,7 @@
     package="com.example.even_split">
     <uses-permission android:name="android.permission.CAMERA" />
    <application
-        android:label="even_split"
+        android:label="Copybara"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
